@@ -1,5 +1,3 @@
-# variables.tf
-
 variable "region" {
   description = "Die AWS-Region, in der die Ressourcen erstellt werden."
   type        = string
